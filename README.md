@@ -97,7 +97,8 @@ Snowflake_Project_E-commerce/
 
 ##  Author
 
-* Your Name
+* Sambit Kumar Barik
+* 
 
 ---
 
